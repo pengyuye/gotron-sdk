@@ -3,9 +3,9 @@ package keys_test
 import (
 	"encoding/hex"
 	"fmt"
+	"github.com/pengyuye/gotron-sdk/v2/pkg/keys"
 	"testing"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/keys"
 	"github.com/stretchr/testify/assert"
 )
 

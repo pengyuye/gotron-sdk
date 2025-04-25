@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/common"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/api"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/core"
+	"github.com/pengyuye/gotron-sdk/v2/pkg/common"
+	"github.com/pengyuye/gotron-sdk/v2/pkg/proto/api"
+	"github.com/pengyuye/gotron-sdk/v2/pkg/proto/core"
 	"google.golang.org/protobuf/proto"
 )
 

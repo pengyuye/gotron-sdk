@@ -5,9 +5,9 @@ import (
 	"os"
 	"path"
 
-	cmd "github.com/fbsobreira/gotron-sdk/cmd/subcommands"
+	cmd "github.com/pengyuye/gotron-sdk/v2/cmd/subcommands"
 	// Need this side effect
-	_ "github.com/fbsobreira/gotron-sdk/pkg/store"
+	_ "github.com/pengyuye/gotron-sdk/v2/pkg/store"
 	"github.com/spf13/cobra"
 )
 

@@ -3,9 +3,9 @@ package client
 import (
 	"context"
 	"fmt"
+	"github.com/pengyuye/gotron-sdk/v2/pkg/proto/api"
 	"time"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/api"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 )
